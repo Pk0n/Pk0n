@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Pk0n, a Mexican Mobile App developer
-- 👀 I’m interested in React Native, JavaScript, C#, Unity, Game Dev , and Tech in general 💻
-- 🌱 I’m currently learning JavaScript, React Native, SQL, CSS & HTML
+- 👋 Hi, I’m @Pk0n, a Mexican Web developer
+- 👀 I’m interested in Java, React Native, JavaScript, C#, Unity, Game Dev , and Tech in general 💻
+- 🌱 I’m currently learning Java, JavaScript, React Native, SQL, CSS & HTML
 - 💞️ I’m looking to collaborate on any open source projects, specially App oriented, or game dev focused
 - 📫 You can contact me at sebasdarrell@gmail.com
 - Cheers! 🍾
